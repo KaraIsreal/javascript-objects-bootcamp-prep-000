@@ -1,7 +1,7 @@
 var playlist = {
-  fredHammond: "Song of Strength",
-  brianCourtneyWilson: "Noise",
-  unitedTenors: "Here In Our Praise",
+  artist: "Song1",
+  artist2: "Song2",
+  artist3: "song3",
 };
 
 function updatePlaylist(playlist, 'artist: song'){
