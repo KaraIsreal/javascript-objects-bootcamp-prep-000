@@ -5,5 +5,5 @@ var playlist = {
 };
 
 function updatePlaylist(playlist, 'artist: song'){
-return Object.assign({}'maryMary: Yesterday', playlist)
+return Object.assign({}, playlist '[maryMary]: Yesterday')
 }
