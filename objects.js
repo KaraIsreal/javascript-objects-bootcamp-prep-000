@@ -4,6 +4,6 @@ var playlist = {
   unitedTenors: "Here In Our Praise",
 };
 
-function updatePlaylist(playlist, 'maryMary: Yesterday'){
+function updatePlaylist(playlist,){
 return Object.assign({'maryMary: Yesterday'}, playlist)
 }
